@@ -1,4 +1,4 @@
-state_code,city_code,city_name,lat,long,capital
+state_code,code,name,lat,long,capital
 52,5200050,Abadia de Goiás,-16.7573,-49.4412,FALSE
 31,3100104,Abadia dos Dourados,-18.4831,-47.3916,FALSE
 52,5200100,Abadiânia,-16.197,-48.7057,FALSE
