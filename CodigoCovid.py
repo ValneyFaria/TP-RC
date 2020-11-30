@@ -48,6 +48,8 @@ uniao = pd.merge(covidmarco,covidcordenateslimpo2,how='left',on='name')
 
 uniao2 = pd.merge(uniao,idhlimpo,how='left',left_on=uniao["name"].str.lower(),right_on=idhlimpo["name"].str.lower())
 
-tabelafinal = uniao2[["date","name_x","code","cases","deaths","lat","long","IDHM","IBGE_RES_POP","IBGE_POP"]]
+tabelafinal = uniao2[["name_x","cases","IDHM","IBGE_POP"]]
 
 covidmarco.head()
+
+tabelafinal.to_csv("covid_31_3.csv")
