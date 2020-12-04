@@ -1,0 +1,854 @@
+,name_x,cases,IDHM,IBGE_POP
+0,Abadia dos Dourados,38,0.69,4154
+1,Abaeté,26,0.698,18464
+2,Abre Campo,22,0.654,7101
+3,Acaiaca,12,0.63,2550
+4,Açucena,32,0.61,4790
+5,Água Boa,1,0.58,6987
+6,Água Comprida,2,0.675,1499
+7,Aguanil,24,0.66,2296
+8,Águas Formosas,209,0.645,14230
+9,Águas Vermelhas,25,0.601,8932
+10,Aimorés,176,0.684,19057
+11,Aiuruoca,1,0.67,3042
+12,Alagoa,0,0.649,1099
+13,Albertina,3,0.67,1998
+14,Além Paraíba,260,0.726,31942
+15,Alfenas,293,0.76,68964
+16,Alfredo Vasconcelos,12,0.675,4031
+17,Almenara,433,0.642,31551
+18,Alpercata,145,0.65,5617
+19,Alpinópolis,41,0.725,14884
+20,Alterosa,12,0.67,9956
+21,Alto Caparaó,10,0.66,3915
+22,Alto Rio Doce,57,0.62,4991
+23,Alvarenga,114,0.59,2109
+24,Alvinópolis,23,0.68,11344
+25,Alvorada de Minas,44,0.57,1441
+26,Amparo do Serra,3,0.64,2623
+27,Andradas,95,0.73,27784
+28,Cachoeira de Pajeú,32,0.578,4460
+29,Andrelândia,32,0.7,9735
+30,Angelândia,0,0.597,4036
+31,Antônio Carlos,20,0.68,7825
+32,Antônio Dias,52,0.645,4662
+33,Antônio Prado de Minas,0,0.684,1003
+34,Araçaí,4,0.695,1783
+35,Aracitaba,0,0.66,1640
+36,Araçuaí,26,0.66,23201
+37,Araguari,1450,0.773,101933
+38,Arantina,4,0.7,2633
+39,Araponga,0,0.536,3022
+40,Araporã,118,0.708,5848
+41,Arapuá,17,0.72,2074
+42,Araújos,16,0.698,6751
+43,Araxá,468,0.772,88054
+44,Arceburgo,22,0.68,8131
+45,Arcos,122,0.75,33752
+46,Areado,1,0.727,11478
+47,Argirita,4,0.643,2192
+48,Aricanduva,1,0.58,1684
+49,Arinos,40,0.66,10806
+50,Astolfo Dutra,69,0.69,11854
+51,Ataléia,57,0.588,7176
+52,Augusto de Lima,18,0.66,2827
+53,Baependi,37,0.68,13077
+54,Baldim,13,0.67,5023
+55,Bambuí,23,0.741,19119
+56,Bandeira,198,0.599,1789
+57,Bandeira do Sul,8,0.69,4824
+58,Barão de Cocais,228,0.722,25126
+59,Barão de Monte Alto,24,0.649,4516
+60,Barbacena,511,0.769,114563
+61,Barra Longa,56,0.624,2304
+62,Barroso,98,0.73,18874
+63,Bela Vista de Minas,20,0.674,9377
+64,Belmiro Braga,11,0.66,1316
+65,Belo Horizonte,20276,0.81,2263631
+66,Belo Oriente,239,0.69,19607
+67,Belo Vale,53,0.655,3292
+68,Berilo,5,0.628,3883
+69,Bertópolis,4,0.594,2721
+70,Berizal,0,0.604,2475
+71,Betim,2591,0.75,372678
+72,Bias Fortes,11,0.62,1497
+73,Bicas,33,0.74,12894
+74,Biquinhas,3,0.688,1635
+75,Boa Esperança,72,0.7,32047
+76,Bocaina de Minas,6,0.645,2396
+77,Bocaiúva,92,0.7,36443
+78,Bom Despacho,193,0.75,42068
+79,Bom Jardim de Minas,3,0.67,5540
+80,Bom Jesus da Penha,2,0.735,2794
+81,Bom Jesus do Amparo,15,0.68,2512
+82,Bom Jesus do Galho,50,0.623,9975
+83,Bom Repouso,14,0.653,5652
+84,Bom Sucesso,20,0.69,14116
+85,Bonfim,20,0.637,3305
+86,Bonfinópolis de Minas,56,0.68,4089
+87,Bonito de Minas,4,0.537,2201
+88,Borda da Mata,88,0.73,13622
+89,Botelhos,32,0.7,11255
+90,Botumirim,0,0.602,3470
+91,Brasilândia de Minas,51,0.674,12341
+92,Brasília de Minas,26,0.66,20565
+93,Brás Pires,4,0.625,2202
+94,Braúnas,10,0.624,1593
+95,Brazópolis,79,0.69,7777
+96,Brumadinho,536,0.747,28129
+97,Bueno Brandão,18,0.66,5621
+98,Buenópolis,81,0.669,7683
+99,Bugre,13,0.627,1529
+100,Buritis,141,0.672,15794
+101,Buritizeiro,91,0.624,23526
+102,Cabeceira Grande,11,0.648,5283
+103,Cabo Verde,5,0.674,7582
+104,Cachoeira da Prata,14,0.741,3528
+105,Cachoeira de Minas,34,0.706,7000
+106,Cachoeira Dourada,3,0.726,2219
+107,Caetanópolis,22,0.706,8351
+108,Caeté,145,0.728,35191
+109,Caiana,12,0.633,2495
+110,Cajuri,35,0.617,2093
+111,Caldas,31,0.687,7675
+112,Camacho,0,0.69,1458
+113,Camanducaia,203,0.69,15290
+114,Cambuí,100,0.75,22241
+115,Cambuquira,7,0.7,10352
+116,Campanário,2,0.616,2647
+117,Campanha,29,0.71,13202
+118,Campestre,56,0.698,11392
+119,Campina Verde,57,0.7,14307
+120,Campo Azul,1,0.621,1540
+121,Campo Belo,321,0.711,47527
+122,Campo do Meio,7,0.68,9130
+123,Campo Florido,43,0.706,4412
+124,Campos Altos,59,0.7,12861
+125,Campos Gerais,57,0.682,19056
+126,Canaã,0,0.649,1846
+127,Canápolis,79,0.722,10029
+128,Cana Verde,63,0.65,4040
+129,Candeias,45,0.68,10112
+130,Cantagalo,0,0.631,2477
+131,Caparaó,14,0.624,2005
+132,Capela Nova,2,0.648,2125
+133,Capelinha,17,0.653,24567
+134,Capetinga,15,0.675,5847
+135,Capim Branco,23,0.695,8046
+136,Capinópolis,119,0.723,14194
+137,Capitão Andrade,15,0.624,3569
+138,Capitão Enéas,45,0.639,11503
+139,Capitólio,14,0.71,5002
+140,Caputira,9,0.615,3778
+141,Caraí,72,0.56,8799
+142,Caranaíba,6,0.634,1176
+143,Carandaí,80,0.7,18164
+144,Carangola,249,0.695,26105
+145,Caratinga,764,0.706,67042
+146,Carbonita,6,0.638,6710
+147,Careaçu,57,0.68,4658
+148,Carlos Chagas,174,0.648,12898
+149,Carmésia,5,0.65,1303
+150,Carmo da Cachoeira,6,0.655,8903
+151,Carmo da Mata,9,0.69,8185
+152,Carmo de Minas,12,0.682,10143
+153,Carmo do Cajuru,89,0.71,17689
+154,Carmo do Paranaíba,133,0.705,24601
+155,Carmo do Rio Claro,33,0.733,14245
+156,Carmópolis de Minas,157,0.7,11739
+157,Carneirinho,20,0.741,6936
+158,Carrancas,13,0.725,2581
+159,Carvalhópolis,3,0.72,2434
+160,Carvalhos,1,0.65,2414
+161,Casa Grande,0,0.652,1122
+162,Cascalho Rico,15,0.721,1794
+163,Cássia,79,0.7,13945
+164,Conceição da Barra de Minas,8,0.685,2765
+165,Cataguases,234,0.75,66352
+166,Catas Altas,35,0.684,4233
+167,Catas Altas da Noruega,17,0.6,1428
+168,Catuji,19,0.54,1666
+169,Catuti,1,0.621,2974
+170,Caxambu,30,0.743,21077
+171,Cedro do Abaeté,0,0.68,1033
+172,Central de Minas,15,0.665,5594
+173,Centralina,49,0.68,9295
+174,Chácara,8,0.664,1903
+175,Chalé,24,0.655,2781
+176,Chapada do Norte,1,0.598,5689
+177,Chapada Gaúcha,15,0.635,5717
+178,Chiador,74,0.711,1904
+179,Cipotânea,18,0.579,2993
+180,Claraval,6,0.698,2518
+181,Claro dos Poções,0,0.67,5249
+182,Cláudio,91,0.71,20725
+183,Coimbra,27,0.669,5143
+184,Coluna,2,0.583,3770
+185,Comendador Gomes,63,0.7,1508
+186,Comercinho,30,0.593,3545
+187,Conceição da Aparecida,2,0.691,6155
+188,Conceição das Pedras,7,0.67,1509
+189,Conceição das Alagoas,515,0.71,20619
+190,Conceição de Ipanema,23,0.68,1462
+191,Conceição do Mato Dentro,444,0.634,12213
+192,Conceição do Pará,0,0.7,2005
+193,Conceição do Rio Verde,4,0.665,11353
+194,Conceição dos Ouros,14,0.703,8076
+195,Cônego Marinho,2,0.621,1908
+196,Confins,23,0.747,5396
+197,Congonhal,39,0.71,7693
+198,Congonhas,241,0.753,47032
+199,Congonhas do Norte,10,0.568,2582
+200,Conquista,40,0.73,5621
+201,Conselheiro Lafaiete,333,0.76,110658
+202,Conselheiro Pena,61,0.662,17446
+203,Consolação,0,0.67,949
+204,Contagem,3287,0.76,595593
+205,Coqueiral,4,0.69,6556
+206,Coração de Jesus,19,0.642,14668
+207,Cordisburgo,48,0.66,5947
+208,Cordislândia,3,0.66,2728
+209,Corinto,124,0.68,21041
+210,Coroaci,6,0.626,5168
+211,Coromandel,104,0.708,21503
+212,Coronel Fabriciano,1875,0.755,99429
+213,Coronel Murta,0,0.627,6681
+214,Coronel Pacheco,30,0.669,2141
+215,Coronel Xavier Chaves,10,0.677,1800
+216,Córrego Danta,3,0.69,2080
+217,Córrego do Bom Jesus,32,0.69,2044
+218,Córrego Fundo,20,0.68,4401
+219,Córrego Novo,8,0.632,2034
+220,Couto de Magalhães de Minas,5,0.659,3819
+221,Crisólita,24,0.585,3485
+222,Cristais,10,0.69,8793
+223,Cristália,1,0.583,3038
+224,Cristiano Otoni,2,0.695,4152
+225,Cristina,13,0.67,5899
+226,Crucilândia,72,0.65,2914
+227,Cruzeiro da Fortaleza,2,0.696,3342
+228,Cruzília,41,0.695,13235
+229,Cuparaque,14,0.627,3877
+230,Curral de Dentro,12,0.585,5820
+231,Curvelo,372,0.713,66960
+232,Datas,31,0.616,3087
+233,Delfim Moreira,13,0.669,2998
+234,Delfinópolis,9,0.74,4810
+235,Delta,130,0.639,7329
+236,Descoberto,11,0.68,4060
+237,Desterro de Entre Rios,24,0.639,3568
+238,Desterro do Melo,4,0.631,1375
+239,Diamantina,71,0.716,40491
+240,Diogo de Vasconcelos,10,0.601,1096
+241,Dionísio,22,0.7,7122
+242,Divinésia,2,0.657,2175
+243,Divino,40,0.605,10652
+244,Divino das Laranjeiras,65,0.66,4106
+245,Divinolândia de Minas,2,0.623,5751
+246,Divinópolis,617,0.764,190832
+247,Divisa Alegre,15,0.608,5686
+248,Divisa Nova,1,0.67,4645
+249,Divisópolis,19,0.609,6390
+250,Dom Bosco,27,0.67,2050
+251,Dom Cavati,29,0.688,4595
+252,Dom Joaquim,78,0.622,2919
+253,Dom Silvério,2,0.71,4023
+254,Dom Viçoso,0,0.687,997
+255,Dona Euzébia,8,0.701,5105
+256,Dores de Campos,6,0.69,8396
+257,Dores de Guanhães,29,0.636,1622
+258,Dores do Indaiá,92,0.72,12516
+259,Dores do Turvo,0,0.629,2022
+260,Doresópolis,31,0.69,1131
+261,Douradoquara,6,0.706,1232
+262,Durandé,9,0.645,3546
+263,Elói Mendes,42,0.685,20303
+264,Engenheiro Caldas,29,0.644,8325
+265,Engenheiro Navarro,5,0.655,4724
+266,Entre Folhas,28,0.634,3885
+267,Entre Rios de Minas,18,0.672,9797
+268,Ervália,37,0.625,9422
+269,Esmeraldas,233,0.67,55040
+270,Espera Feliz,121,0.66,14080
+271,Espinosa,132,0.627,17597
+272,Espírito Santo do Dourado,5,0.685,1682
+273,Estiva,49,0.691,4850
+274,Estrela Dalva,14,0.71,1780
+275,Estrela do Indaiá,3,0.68,2767
+276,Estrela do Sul,19,0.696,6009
+277,Eugenópolis,154,0.675,7358
+278,Ewbank da Câmara,7,0.68,3433
+279,Extrema,880,0.732,25951
+280,Fama,0,0.72,1512
+281,Faria Lemos,15,0.687,2324
+282,Felício dos Santos,1,0.606,2221
+283,São Gonçalo do Rio Preto,3,0.64,1939
+284,Felisburgo,33,0.583,5034
+285,Felixlândia,12,0.648,10850
+286,Fernandes Tourinho,4,0.65,2008
+287,Ferros,80,0.603,5028
+288,Fervedouro,22,0.58,4745
+289,Florestal,38,0.72,5479
+290,Formiga,457,0.755,58961
+291,Formoso,29,0.64,5162
+292,Fortaleza de Minas,3,0.67,2945
+293,Fortuna de Minas,16,0.696,1859
+294,Francisco Badaró,1,0.622,3170
+295,Francisco Dumont,4,0.625,3186
+296,Francisco Sá,65,0.654,14810
+297,Franciscópolis,0,0.603,2396
+298,Frei Gaspar,45,0.59,1916
+299,Frei Inocêncio,83,0.648,6728
+300,Frei Lagonegro,20,0.54,616
+301,Fronteira,42,0.684,13130
+302,Fronteira dos Vales,13,0.59,3021
+303,Fruta de Leite,12,0.544,2036
+304,Frutal,376,0.73,45843
+305,Funilândia,1,0.655,2029
+306,Galiléia,20,0.654,5657
+307,Gameleiras,5,0.65,1406
+308,Glaucilândia,4,0.679,1048
+309,Goiabeira,11,0.647,2464
+310,Goianá,9,0.716,2969
+311,Gonçalves,0,0.68,1144
+312,Gonzaga,3,0.606,3221
+313,Gouveia,37,0.68,8193
+314,Governador Valadares,3877,0.727,248674
+315,Grão Mogol,29,0.604,5188
+316,Grupiara,0,0.731,1170
+317,Guanhães,155,0.69,25318
+318,Guapé,32,0.679,7111
+319,Guaraciaba,20,0.623,3173
+320,Guaraciama,4,0.677,3024
+321,Guaranésia,188,0.701,16723
+322,Guarani,15,0.677,6610
+323,Guarará,1,0.652,3486
+324,Guarda-Mor,48,0.69,3681
+325,Guaxupé,395,0.75,46069
+326,Guidoval,3,0.68,5191
+327,Guimarânia,29,0.693,5914
+328,Guiricema,37,0.674,4207
+329,Gurinhatã,3,0.68,2672
+330,Heliodora,37,0.657,4413
+331,Iapu,55,0.654,7145
+332,Ibertioga,0,0.657,3426
+333,Ibiá,97,0.718,19484
+334,Ibiaí,2,0.614,5980
+335,Ibiracatu,5,0.591,3116
+336,Ibiraci,20,0.706,8137
+337,Ibirité,829,0.7,158253
+338,Ibitiúra de Minas,3,0.674,2347
+339,Ibituruna,2,0.675,2465
+340,Icaraí de Minas,7,0.624,2973
+341,Igarapé,254,0.698,32518
+342,Igaratinga,5,0.65,7628
+343,Iguatama,14,0.71,6668
+344,Ijaci,14,0.71,5151
+345,Ilicínea,13,0.68,8991
+346,Imbé de Minas,26,0.55,2037
+347,Inconfidentes,22,0.69,3598
+348,Indaiabira,2,0.61,2742
+349,Indianópolis,20,0.674,3635
+350,Ingaí,14,0.7,1620
+351,Inhapim,52,0.66,13886
+352,Inhaúma,15,0.7,4190
+353,Inimutaba,30,0.664,4737
+354,Ipaba,155,0.665,14614
+355,Ipanema,138,0.693,14133
+356,Ipatinga,5516,0.77,235407
+357,Ipiaçu,23,0.696,3731
+358,Ipuiúna,19,0.69,7382
+359,Iraí de Minas,65,0.695,5152
+360,Itabira,1292,0.76,101931
+361,Itabirinha,69,0.653,8320
+362,Itabirito,1087,0.73,43396
+363,Itacambira,0,0.628,1004
+364,Itacarambi,26,0.64,13771
+365,Itaguara,168,0.691,9460
+366,Itaipé,19,0.552,4912
+367,Itajubá,424,0.787,80074
+368,Itamarandiba,16,0.65,21814
+369,Itamarati de Minas,8,0.688,3208
+370,Itambacuri,57,0.634,14445
+371,Itambé do Mato Dentro,1,0.634,907
+372,Itamogi,5,0.674,7695
+373,Itamonte,63,0.705,9550
+374,Itanhandu,66,0.74,12009
+375,Itanhomi,29,0.65,8533
+376,Itaobim,163,0.629,15673
+377,Itapagipe,56,0.723,9369
+378,Itapecerica,28,0.713,16418
+379,Itapeva,215,0.72,4511
+380,Itatiaiuçu,203,0.677,6218
+381,Itaú de Minas,44,0.78,14527
+382,Itaúna,241,0.758,79872
+383,Itaverava,5,0.627,2565
+384,Itinga,38,0.6,6546
+385,Itueta,24,0.635,3289
+386,Ituiutaba,380,0.74,92119
+387,Itumirim,9,0.726,4696
+388,Iturama,404,0.747,32224
+389,Itutinga,2,0.727,2755
+390,Jaboticatubas,244,0.68,10722
+391,Jacinto,73,0.62,9115
+392,Jacuí,1,0.67,4529
+393,Jacutinga,157,0.715,15560
+394,Jaguaraçu,40,0.679,2137
+395,Jaíba,79,0.638,17546
+396,Jampruca,4,0.609,3256
+397,Janaúba,519,0.696,60294
+398,Januária,32,0.66,41121
+399,Japaraíba,20,0.721,2533
+400,Japonvar,3,0.608,3042
+401,Jeceaba,13,0.66,2985
+402,Jenipapo de Minas,1,0.624,2863
+403,Jequeri,6,0.601,7250
+404,Jequitaí,25,0.643,5427
+405,Jequitibá,18,0.69,1956
+406,Jequitinhonha,51,0.615,16853
+407,Jesuânia,21,0.66,3081
+408,Joaíma,134,0.59,10241
+409,Joanésia,30,0.626,2060
+410,João Monlevade,557,0.758,73080
+411,João Pinheiro,260,0.7,36598
+412,Joaquim Felício,23,0.637,2506
+413,Jordânia,36,0.628,7171
+414,José Gonçalves de Minas,1,0.632,1135
+415,José Raydan,3,0.617,1560
+416,Josenópolis,3,0.564,2443
+417,Nova União,24,0.662,2984
+418,Juatuba,161,0.72,21719
+419,Juiz de Fora,3424,0.778,499216
+420,Juramento,3,0.669,2270
+421,Juruaia,164,0.723,4487
+422,Juvenília,4,0.59,4384
+423,Ladainha,18,0.541,4268
+424,Lagamar,45,0.718,5098
+425,Lagoa da Prata,415,0.732,44536
+426,Lagoa dos Patos,14,0.634,3073
+427,Lagoa Dourada,22,0.68,6869
+428,Lagoa Formosa,75,0.703,12898
+429,Lagoa Grande,12,0.679,6377
+430,Lagoa Santa,279,0.777,49199
+431,Lajinha,152,0.66,12187
+432,Lambari,111,0.711,13973
+433,Lamim,2,0.655,1511
+434,Laranjal,16,0.71,4738
+435,Lassance,8,0.629,3872
+436,Lavras,202,0.782,87422
+437,Leandro Ferreira,22,0.71,2117
+438,Leme do Prado,0,0.67,1761
+439,Leopoldina,633,0.726,45516
+440,Liberdade,0,0.672,3848
+441,Lima Duarte,124,0.71,12239
+442,Limeira do Oeste,49,0.71,4943
+443,Lontra,6,0.65,5614
+444,Luisburgo,12,0.608,1836
+445,Luislândia,9,0.614,2989
+446,Luminárias,6,0.68,4137
+447,Luz,90,0.72,15593
+448,Machacalis,13,0.64,5735
+449,Machado,32,0.715,31371
+450,Madre de Deus de Minas,43,0.7,3714
+451,Malacacheta,33,0.618,11701
+452,Mamonas,6,0.618,2808
+453,Manga,49,0.642,13766
+454,Manhuaçu,591,0.69,63209
+455,Manhumirim,291,0.7,16895
+456,Mantena,316,0.675,21053
+457,Maravilhas,13,0.672,4882
+458,Mar de Espanha,70,0.684,10538
+459,Maria da Fé,43,0.7,8281
+460,Mariana,892,0.742,47999
+461,Marilac,0,0.615,3417
+462,Mário Campos,106,0.7,11929
+463,Maripá de Minas,12,0.68,2261
+464,Marliéria,22,0.657,2823
+465,Marmelópolis,0,0.65,1549
+466,Martinho Campos,25,0.669,10932
+467,Martins Soares,31,0.635,2917
+468,Mata Verde,20,0.581,6387
+469,Materlândia,3,0.597,2005
+470,Mateus Leme,127,0.7,24603
+471,Matias Barbosa,108,0.72,12434
+472,Matias Cardoso,11,0.616,5131
+473,Matipó,69,0.631,13766
+474,Mato Verde,6,0.662,9160
+475,Matozinhos,153,0.731,32354
+476,Matutina,24,0.71,2683
+477,Medeiros,20,0.711,1934
+478,Medina,107,0.624,15048
+479,Mendes Pimentel,21,0.626,3447
+480,Mercês,21,0.664,7226
+481,Mesquita,29,0.66,3805
+482,Minas Novas,16,0.633,12471
+483,Minduri,2,0.66,3365
+484,Mirabela,23,0.665,9999
+485,Miradouro,52,0.66,5630
+486,Miraí,72,0.68,10323
+487,Miravânia,0,0.593,1072
+488,Moeda,46,0.638,1787
+489,Moema,94,0.721,6458
+490,Monjolos,1,0.65,1402
+491,Monsenhor Paulo,9,0.721,6102
+492,Montalvânia,41,0.613,10210
+493,Monte Alegre de Minas,200,0.674,13210
+494,Monte Azul,81,0.659,12329
+495,Monte Belo,3,0.688,8953
+496,Monte Carmelo,99,0.728,39350
+497,Monte Formoso,6,0.541,1696
+498,Monte Santo de Minas,17,0.71,16267
+499,Montes Claros,1552,0.77,338940
+500,Monte Sião,85,0.72,16545
+501,Montezuma,1,0.59,3074
+502,Morada Nova de Minas,29,0.696,6396
+503,Morro da Garça,6,0.648,1520
+504,Morro do Pilar,4,0.597,2581
+505,Munhoz,38,0.647,3310
+506,Muriaé,1799,0.73,92629
+507,Mutum,175,0.644,13711
+508,Muzambinho,25,0.74,15620
+509,Nacip Raydan,6,0.585,1960
+510,Nanuque,350,0.701,36579
+511,Naque,37,0.675,5945
+512,Natalândia,5,0.67,2447
+513,Natércia,16,0.693,2721
+514,Nazareno,8,0.69,6217
+515,Nepomuceno,62,0.667,19800
+516,Ninheira,13,0.556,2614
+517,Nova Belém,7,0.59,1348
+518,Nova Era,79,0.71,15386
+519,Nova Lima,1320,0.813,76049
+520,Nova Módica,27,0.63,2321
+521,Nova Ponte,146,0.701,10952
+522,Nova Porteirinha,42,0.64,4065
+523,Nova Resende,47,0.67,8801
+524,Nova Serrana,230,0.715,69346
+525,Novo Cruzeiro,55,0.57,10471
+526,Novo Oriente de Minas,70,0.555,4408
+527,Novorizonte,1,0.616,1717
+528,Olaria,4,0.636,917
+529,Olhos-d'Água,0,0.626,2861
+530,Olímpio Noronha,12,0.674,2248
+531,Oliveira,92,0.7,35099
+532,Oliveira Fortes,0,0.635,1171
+533,Onça de Pitangui,5,0.66,1517
+534,Oratórios,6,0.637,3240
+535,Orizânia,7,0.562,2221
+536,Ouro Branco,172,0.764,31547
+537,Ouro Fino,71,0.722,22455
+538,Ouro Preto,307,0.741,61519
+539,Ouro Verde de Minas,10,0.595,3613
+540,Padre Carvalho,19,0.599,3462
+541,Padre Paraíso,171,0.596,11494
+542,Paineiras,5,0.669,3568
+543,Pains,17,0.728,6565
+544,Pai Pedro,6,0.59,1742
+545,Paiva,2,0.72,1218
+546,Palma,23,0.703,5108
+547,Palmópolis,4,0.565,4463
+548,Papagaios,112,0.67,11821
+549,Paracatu,588,0.74,73521
+550,Pará de Minas,170,0.725,78927
+551,Paraguaçu,30,0.715,16567
+552,Paraisópolis,47,0.73,15961
+553,Paraopeba,90,0.69,19584
+554,Passabém,1,0.642,1010
+555,Passa Quatro,57,0.715,11611
+556,Passa Tempo,16,0.687,6332
+557,Passa Vinte,8,0.648,1295
+558,Passos,305,0.76,100405
+559,Patis,0,0.614,2297
+560,Patos de Minas,1289,0.765,124101
+561,Patrocínio,494,0.73,71918
+562,Patrocínio do Muriaé,14,0.682,4303
+563,Paula Cândido,14,0.637,4915
+564,Paulistas,1,0.625,2290
+565,Pavão,14,0.627,5176
+566,Peçanha,8,0.627,9035
+567,Pedra Azul,82,0.627,20912
+568,Pedra Bonita,5,0.573,1805
+569,Pedra do Anta,2,0.624,2191
+570,Pedra do Indaiá,12,0.708,2052
+571,Pedra Dourada,8,0.655,1297
+572,Pedralva,8,0.675,5504
+573,Pedras de Maria da Cruz,0,0.614,6323
+574,Pedrinópolis,16,0.73,2911
+575,Pedro Leopoldo,274,0.757,55232
+576,Pedro Teixeira,0,0.637,965
+577,Pequeri,1,0.69,2908
+578,Pequi,4,0.674,2949
+579,Perdigão,50,0.703,7062
+580,Perdizes,115,0.723,9784
+581,Perdões,65,0.74,17714
+582,Periquito,50,0.65,5289
+583,Pescador,11,0.66,3195
+584,Piau,0,0.629,1669
+585,Piedade de Caratinga,18,0.612,4592
+586,Piedade de Ponte Nova,24,0.639,3156
+587,Piedade do Rio Grande,18,0.68,3423
+588,Piedade dos Gerais,50,0.626,2077
+589,Pimenta,12,0.69,6879
+590,Pingo d'Água,7,0.619,4029
+591,Pintópolis,2,0.594,2532
+592,Piracema,25,0.65,3003
+593,Pirajuba,105,0.723,4097
+594,Piranga,46,0.6,5899
+595,Piranguçu,15,0.685,1721
+596,Piranguinho,34,0.72,4762
+597,Pirapetinga,134,0.71,9089
+598,Pirapora,207,0.731,51887
+599,Piraúba,29,0.684,8768
+600,Pitangui,99,0.725,22436
+601,Piumhi,159,0.737,28288
+602,Planura,99,0.71,9326
+603,Poço Fundo,54,0.691,9212
+604,Poços de Caldas,418,0.779,148198
+605,Pocrane,56,0.626,5374
+606,Pompéu,215,0.69,25352
+607,Ponte Nova,239,0.72,51046
+608,Ponto Chique,0,0.606,2577
+609,Ponto dos Volantes,56,0.595,4025
+610,Porteirinha,121,0.65,19222
+611,Porto Firme,44,0.634,4811
+612,Poté,91,0.624,9299
+613,Pouso Alegre,927,0.774,118760
+614,Pouso Alto,9,0.71,3605
+615,Prados,5,0.69,5872
+616,Prata,97,0.695,19257
+617,Pratápolis,65,0.73,7739
+618,Pratinha,13,0.721,1758
+619,Presidente Bernardes,2,0.632,1626
+620,Presidente Juscelino,37,0.614,1846
+621,Presidente Kubitschek,7,0.595,2012
+622,Presidente Olegário,67,0.701,13036
+623,Alto Jequitibá,39,0.66,4719
+624,Prudente de Morais,24,0.69,9120
+625,Quartel Geral,4,0.68,2749
+626,Queluzito,0,0.682,847
+627,Raposos,133,0.73,14988
+628,Raul Soares,49,0.655,15377
+629,Recreio,36,0.69,9048
+630,Reduto,37,0.629,3648
+631,Resende Costa,13,0.685,8672
+632,Resplendor,80,0.67,12969
+633,Ressaquinha,1,0.68,2979
+634,Riachinho,14,0.632,4429
+635,Riacho dos Machados,10,0.627,4497
+636,Ribeirão das Neves,2251,0.684,272404
+637,Ribeirão Vermelho,14,0.737,3532
+638,Rio Acima,105,0.67,8453
+639,Rio Casca,129,0.65,11171
+640,Rio Doce,0,0.664,1650
+641,Rio do Prado,17,0.605,2717
+642,Rio Espera,10,0.602,2377
+643,Rio Manso,29,0.648,2802
+644,Rio Novo,16,0.71,7490
+645,Rio Paranaíba,181,0.71,7876
+646,Rio Pardo de Minas,37,0.624,11636
+647,Rio Piracicaba,140,0.685,11229
+648,Rio Pomba,29,0.71,14384
+649,Rio Preto,3,0.679,4408
+650,Rio Vermelho,4,0.56,5443
+651,Ritápolis,7,0.653,3407
+652,Rochedo de Minas,1,0.684,1914
+653,Rodeiro,53,0.67,5506
+654,Romaria,6,0.708,2707
+655,Rosário da Limeira,14,0.662,2283
+656,Rubelita,3,0.58,2514
+657,Rubim,5,0.609,7678
+658,Sabará,718,0.731,119262
+659,Sabinópolis,14,0.638,10099
+660,Sacramento,63,0.732,19131
+661,Salinas,263,0.679,30607
+662,Salto da Divisa,16,0.608,5743
+663,Santa Bárbara,223,0.71,25790
+664,Santa Bárbara do Leste,24,0.613,3959
+665,Santa Bárbara do Monte Verde,1,0.606,1607
+666,Santa Bárbara do Tugúrio,5,0.637,2187
+667,Santa Cruz de Minas,42,0.706,7861
+668,Santa Cruz de Salinas,13,0.58,1150
+669,Santa Cruz do Escalvado,3,0.625,1728
+670,Santa Efigênia de Minas,10,0.607,3044
+671,Santa Fé de Minas,5,0.615,2262
+672,Santa Helena de Minas,20,0.57,3760
+673,Santa Juliana,337,0.706,9757
+674,Santa Luzia,1090,0.715,191977
+675,Santa Margarida,38,0.61,7612
+676,Santa Maria de Itabira,28,0.648,6278
+677,Santa Maria do Salto,8,0.613,3739
+678,Santa Maria do Suaçuí,23,0.64,10538
+679,Santana da Vargem,6,0.698,5277
+680,Santana de Cataguases,12,0.69,2913
+681,Santana de Pirapama,3,0.628,3297
+682,Santana do Deserto,46,0.65,1404
+683,Santana do Garambéu,0,0.667,1548
+684,Santana do Jacaré,9,0.647,4382
+685,Santana do Manhuaçu,14,0.621,4133
+686,Santana do Paraíso,1311,0.685,25947
+687,Santana do Riacho,3,0.665,2260
+688,Santana dos Montes,0,0.647,2285
+689,Santa Rita de Caldas,38,0.69,5532
+690,Santa Rita de Jacutinga,6,0.682,3736
+691,Santa Rita de Minas,81,0.613,4746
+692,Santa Rita de Ibitipoca,1,0.63,2232
+693,Santa Rita do Itueto,11,0.607,2566
+694,Santa Rita do Sapucaí,50,0.721,31718
+695,Santa Rosa da Serra,10,0.705,1956
+696,Santa Vitória,85,0.71,14334
+697,Santo Antônio do Amparo,74,0.672,15137
+698,Santo Antônio do Aventureiro,4,0.67,2374
+699,Santo Antônio do Grama,4,0.633,3365
+700,Santo Antônio do Itambé,0,0.56,1230
+701,Santo Antônio do Jacinto,32,0.574,6341
+702,Santo Antônio do Monte,84,0.72,21302
+703,Santo Antônio do Retiro,15,0.57,1590
+704,Santo Antônio do Rio Abaixo,12,0.669,887
+705,Santo Hipólito,12,0.657,2233
+706,Santos Dumont,122,0.741,41193
+707,São Bento Abade,2,0.672,4236
+708,São Brás do Suaçuí,5,0.664,3128
+709,São Domingos das Dores,22,0.638,2573
+710,São Domingos do Prata,24,0.69,10434
+711,São Félix de Minas,34,0.62,2082
+712,São Francisco,61,0.638,34060
+713,São Francisco de Paula,4,0.66,4622
+714,São Francisco de Sales,29,0.688,4293
+715,São Francisco do Glória,18,0.66,3129
+716,São Geraldo,37,0.65,7226
+717,São Geraldo da Piedade,30,0.6,1048
+718,São Geraldo do Baixio,5,0.63,2438
+719,São Gonçalo do Abaeté,12,0.67,4161
+720,São Gonçalo do Pará,25,0.69,7940
+721,São Gonçalo do Rio Abaixo,90,0.667,4649
+722,São Gonçalo do Sapucaí,10,0.715,19637
+723,São Gotardo,305,0.736,29284
+724,São João Batista do Glória,28,0.72,5579
+725,São João da Lagoa,5,0.634,2388
+726,São João da Mata,9,0.653,1706
+727,São João da Ponte,21,0.569,8616
+728,São João das Missões,10,0.529,2431
+729,São João del Rei,403,0.758,79654
+730,São João do Manhuaçu,23,0.65,4178
+731,São João do Manteninha,98,0.64,2904
+732,São João do Oriente,48,0.648,6319
+733,São João do Pacuí,0,0.625,1921
+734,São João do Paraíso,72,0.615,10219
+735,São João Evangelista,6,0.638,10057
+736,São João Nepomuceno,40,0.708,23687
+737,São Joaquim de Bicas,189,0.662,21770
+738,São José da Barra,9,0.74,4882
+739,São José da Lapa,184,0.73,17889
+740,São José da Safira,59,0.583,2944
+741,São José da Varginha,1,0.7,2369
+742,São José do Alegre,5,0.72,2894
+743,São José do Divino,32,0.66,2686
+744,São José do Goiabal,19,0.67,3685
+745,São José do Jacuri,1,0.57,2000
+746,São José do Mantimento,60,0.657,1437
+747,São Lourenço,128,0.759,40784
+748,São Miguel do Anta,10,0.644,3738
+749,São Pedro da União,5,0.674,2755
+750,São Pedro dos Ferros,8,0.659,6732
+751,São Pedro do Suaçuí,7,0.622,2302
+752,São Romão,32,0.64,6413
+753,São Roque de Minas,9,0.672,4188
+754,São Sebastião da Bela Vista,26,0.69,2776
+755,São Sebastião da Vargem Alegre,19,0.66,1602
+756,São Sebastião do Anta,6,0.607,4205
+757,São Sebastião do Maranhão,8,0.581,3237
+758,São Sebastião do Oeste,78,0.626,2927
+759,São Sebastião do Paraíso,160,0.722,59711
+760,São Sebastião do Rio Preto,4,0.632,873
+761,São Sebastião do Rio Verde,1,0.68,1321
+762,São Tiago,8,0.662,8436
+763,São Tomás de Aquino,13,0.7,5486
+764,São Tomé das Letras,0,0.667,3787
+765,São Vicente de Minas,7,0.715,5927
+766,Sapucaí-Mirim,2,0.68,3783
+767,Sardoá,14,0.636,1979
+768,Sarzedo,203,0.73,25478
+769,Setubinha,1,0.542,2790
+770,Sem-Peixe,3,0.654,1506
+771,Senador Amaral,40,0.66,3098
+772,Senador Cortes,12,0.674,1511
+773,Senador Firmino,10,0.644,4642
+774,Senador José Bento,10,0.684,682
+775,Senador Modestino Gonçalves,2,0.62,1786
+776,Senhora de Oliveira,5,0.631,3241
+777,Senhora do Porto,13,0.565,1580
+778,Senhora dos Remédios,8,0.626,3421
+779,Sericita,9,0.56,3717
+780,Seritinga,0,0.66,1482
+781,Serra Azul de Minas,1,0.557,1706
+782,Serra da Saudade,5,0.677,524
+783,Serra dos Aimorés,37,0.65,6761
+784,Serra do Salitre,95,0.696,7728
+785,Serrania,8,0.677,6537
+786,Serranópolis de Minas,2,0.633,1725
+787,Serranos,1,0.643,1536
+788,Serro,79,0.66,12808
+789,Sete Lagoas,838,0.76,208184
+790,Silveirânia,5,0.652,1428
+791,Silvianópolis,7,0.7,3494
+792,Simão Pereira,7,0.638,1496
+793,Simonésia,38,0.632,7072
+794,Sobrália,12,0.631,4128
+795,Soledade de Minas,0,0.7,3761
+796,Tabuleiro,5,0.68,2697
+797,Taiobeiras,96,0.67,24995
+798,Taparuba,10,0.645,1405
+799,Tapira,31,0.71,2404
+800,Tapiraí,0,0.667,1084
+801,Taquaraçu de Minas,12,0.65,1755
+802,Tarumirim,40,0.633,7950
+803,Teixeiras,10,0.675,7574
+804,Teófilo Otoni,1341,0.701,112361
+805,Timóteo,979,0.77,78539
+806,Tiradentes,11,0.74,5403
+807,Tiros,12,0.68,4815
+808,Tocantins,56,0.688,12844
+809,Tocos do Moji,2,0.696,1017
+810,Toledo,90,0.66,2153
+811,Tombos,105,0.718,7556
+812,Três Corações,319,0.74,65609
+813,Três Marias,102,0.752,26773
+814,Três Pontas,132,0.731,45472
+815,Tumiritinga,18,0.626,4316
+816,Tupaciguara,209,0.72,21636
+817,Turmalina,25,0.682,12862
+818,Turvolândia,3,0.696,2860
+819,Ubá,428,0.72,96248
+820,Ubaí,4,0.609,5648
+821,Ubaporanga,103,0.614,6419
+822,Uberaba,1679,0.772,285743
+823,Uberlândia,12453,0.789,580561
+824,Umburatiba,0,0.638,1554
+825,Unaí,1129,0.736,59265
+826,União de Minas,54,0.672,2651
+827,Uruana de Minas,2,0.664,1809
+828,Urucânia,85,0.633,7928
+829,Urucuia,27,0.619,6152
+830,Vargem Alegre,52,0.631,5256
+831,Vargem Bonita,2,0.696,1142
+832,Vargem Grande do Rio Pardo,0,0.634,2421
+833,Varginha,324,0.778,118734
+834,Varjão de Minas,12,0.711,4998
+835,Várzea da Palma,81,0.67,31216
+836,Varzelândia,23,0.594,8877
+837,Vazante,286,0.742,16094
+838,Verdelândia,1,0.584,4698
+839,Veredinha,0,0.632,3761
+840,Veríssimo,6,0.667,1969
+841,Vermelho Novo,3,0.612,1849
+842,Vespasiano,658,0.688,84080
+843,Viçosa,142,0.775,67078
+844,Vieiras,5,0.67,1851
+845,Mathias Lobato,20,0.612,3060
+846,Virgem da Lapa,9,0.61,6837
+847,Virgínia,3,0.65,3902
+848,Virginópolis,5,0.675,6147
+849,Virgolândia,11,0.62,3392
+850,Visconde do Rio Branco,314,0.71,32204
+851,Volta Grande,10,0.669,3787
+852,Wenceslau Braz,14,0.68,1264

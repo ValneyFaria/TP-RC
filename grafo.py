@@ -7,7 +7,7 @@ Created on Mon Nov 30 04:27:08 2020
 
 from igraph import *
 
-g = Graph.Read_GML("covid_31_10.gml")
+g = Graph.Read_GML("covid_31_07.gml")
 
 
 # Caracteristicas Basicas
@@ -21,7 +21,7 @@ print("Coeficiente de Cluterização médio:", g.transitivity_undirected())
 
 # Visualização da rede
 lay = g.layout_drl()
-plot(g, bbox=(800, 600),  layout=lay, vertex_size=g.vs["porcentagem"]).show()
+plot(g, bbox=(800, 600), layout=lay, vertex_size=g.vs["porcentagem"]).show()
 
 # Distribuição de Graus
 print("Graus:")

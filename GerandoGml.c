@@ -15,7 +15,7 @@ typedef struct dado{
 
 void leitura(Dado dado[853]){
     FILE *arq;
-    arq = fopen("covid_31_10.csv","r");
+    arq = fopen("covid_31_07.csv","r");
     if (arq == NULL){
         printf("Arquivo não existe \n");
     }
@@ -43,7 +43,7 @@ int main(){
     leitura(dado);
     printf("%f\n" ,dado[351].idh);
     FILE *arq2;
-    arq2 = fopen("covid_31_10.gml","a");
+    arq2 = fopen("covid_31_07.gml","a");
     fprintf(arq2,"graph\n");
     fprintf(arq2,"[\n");
     for(int i = 0;i<853;i++){
