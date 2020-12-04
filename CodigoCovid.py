@@ -42,7 +42,7 @@ covidmg = covidcities[covidcities["state"]  == "MG"]
 
 covidmg.head()
 
-covidmarco = covidmg[covidmg["date"] == "2020-03-31"]
+covidmarco = covidmg[covidmg["date"] == "2020-10-31"]
 
 uniao = pd.merge(covidmarco,covidcordenateslimpo2,how='left',on='name')
 
@@ -52,4 +52,4 @@ tabelafinal = uniao2[["name_x","cases","IDHM","IBGE_POP"]]
 
 covidmarco.head()
 
-tabelafinal.to_csv("covid_31_3.csv")
+tabelafinal.to_csv("covid_31_10.csv")
