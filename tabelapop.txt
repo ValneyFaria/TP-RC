@@ -1,0 +1,60 @@
+	name_x	IDHM	IBGE_POP
+Belo Horizonte	0.81	2263631
+Contagem	0.76	595593
+Uberlândia	0.789	580561
+Juiz de Fora	0.778	499216
+Betim	0.75	372678
+Montes Claros	0.77	338940
+Uberaba	0.772	285743
+Ribeirão das Neves	0.684	272404
+Governador Valadares	0.727	248674
+Ipatinga	0.77	235407
+Sete Lagoas	0.76	208184
+Santa Luzia	0.715	191977
+Divinópolis	0.764	190832
+Ibirité	0.7	158253
+Poços de Caldas	0.779	148198
+Patos de Minas	0.765	124101
+Sabará	0.731	119262
+Pouso Alegre	0.774	118760
+Varginha	0.778	118734
+Barbacena	0.769	114563
+Teófilo Otoni	0.701	112361
+Conselheiro Lafaiete	0.76	110658
+Araguari	0.773	101933
+Itabira	0.76	101931
+Passos	0.76	100405
+Coronel Fabriciano	0.755	99429
+Ubá	0.72	96248
+Muriaé	0.73	92629
+Ituiutaba	0.74	92119
+Araxá	0.772	88054
+Lavras	0.782	87422
+Vespasiano	0.688	84080
+Itajubá	0.787	80074
+Itaúna	0.758	79872
+São João del Rei	0.758	79654
+Pará de Minas	0.725	78927
+Timóteo	0.77	78539
+Nova Lima	0.813	76049
+Paracatu	0.74	73521
+João Monlevade	0.758	73080
+Patrocínio	0.73	71918
+Nova Serrana	0.715	69346
+Alfenas	0.76	68964
+Viçosa	0.775	67078
+Caratinga	0.706	67042
+Curvelo	0.713	66960
+Cataguases	0.75	66352
+Três Corações	0.74	65609
+Manhuaçu	0.69	63209
+Ouro Preto	0.741	61519
+Janaúba	0.696	60294
+São Sebastião do Paraíso	0.722	59711
+Unaí	0.736	59265
+Formiga	0.755	58961
+Pedro Leopoldo	0.757	55232
+Esmeraldas	0.67	55040
+Pirapora	0.731	51887
+Ponte Nova	0.72	51046
+
