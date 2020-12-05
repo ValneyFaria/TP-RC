@@ -7,7 +7,7 @@ Created on Mon Nov 30 04:27:08 2020
 
 from igraph import *
 
-g = Graph.Read_GML("covid_31_07.gml")
+g = Graph.Read_GML("covid_04_11.gml")
 
 
 # Caracteristicas Basicas
@@ -28,13 +28,16 @@ print("Graus:")
 print(g.degree())
 # plot(g, bbox=(800, 600),  layout=lay).show()
 
-# Centralidade
-print("Centralidade")
-print(g.evcent())
-VetorCent = g.evcent()
-print("Top 20 centralidade")
-print("Rank Nome Centralidade")
+print( g.vs['label'],g.evcent())
+print("porcentagem e IDH")
+print(g.vs["porcentagem"])
+VetorCent = g.vs["porcentagem"]
+VetorCity = g.vs["label"]
+VetorIdh = g.vs["IDH"]
+print("Top 20 cidades")
+print("Rank Nome porcetagem IDH")
 for item in range(20):
-    print(item+1, g.vs['label']
-          [VetorCent.index(max(VetorCent))], max(VetorCent))
+    print(item+1,VetorCity[VetorCent.index(max(VetorCent))],round(max(VetorCent)/10,3),VetorIdh[VetorCent.index(max(VetorCent))])
+    del(VetorCity[VetorCent.index(max(VetorCent))])
+    del(VetorIdh[VetorCent.index(max(VetorCent))])
     del(VetorCent[VetorCent.index(max(VetorCent))])
